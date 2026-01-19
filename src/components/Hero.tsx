@@ -1,7 +1,7 @@
 import { motion } from "framer-motion";
 
 export default function Hero() {
-  const serviceTags = ["Tattoo Artistry", "Makeup", "Nail Care", "Lash & Brow", "Skincare", "Spa"];
+  const serviceTags = ["Tattoo Artistry", "Makeup", "Nail Care", "Lash & Brow", "Spa"];
 
   return (
     <section className="relative min-h-screen w-full overflow-hidden bg-black">

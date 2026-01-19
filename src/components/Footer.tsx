@@ -14,7 +14,6 @@ const Footer: React.FC = () => {
     'Makeup Artistry',
     'Nail Care',
     'Lash & Brow',
-    'Skincare',
   ];
 
   return (
