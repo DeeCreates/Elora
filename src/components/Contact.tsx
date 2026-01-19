@@ -55,8 +55,6 @@ const Contact: React.FC = () => {
     'Makeup Artistry',
     'Nail Care',
     'Lash & Brow',
-    'Skincare',
-    'Spa Treatments',
     'Consultation',
   ];
 
